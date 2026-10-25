@@ -79,7 +79,7 @@ enum AppToasts {
     static var supportEmailCopied: Toast {
         .info(
             title: "Email Copied",
-            message: "info.flow@gmail.com copied to clipboard."
+            message: "appsupport.flow@gmail.com copied to clipboard."
         )
     }
 

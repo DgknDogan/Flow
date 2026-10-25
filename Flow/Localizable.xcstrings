@@ -4453,36 +4453,36 @@
         }
       }
     },
-    "If you have questions about your privacy, write to us at info.flow@gmail.com." : {
+    "If you have questions about your privacy, write to us at appsupport.flow@gmail.com." : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bei Fragen zu deinem Datenschutz schreib uns an info.flow@gmail.com."
+            "value" : "Bei Fragen zu deinem Datenschutz schreib uns an appsupport.flow@gmail.com."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Si tienes preguntas sobre tu privacidad, escríbenos a info.flow@gmail.com."
+            "value" : "Si tienes preguntas sobre tu privacidad, escríbenos a appsupport.flow@gmail.com."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pour toute question sur votre vie privée, écrivez-nous à info.flow@gmail.com."
+            "value" : "Pour toute question sur votre vie privée, écrivez-nous à appsupport.flow@gmail.com."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Per domande sulla tua privacy, scrivici a info.flow@gmail.com."
+            "value" : "Per domande sulla tua privacy, scrivici a appsupport.flow@gmail.com."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gizliliğinle ilgili soruların varsa info.flow@gmail.com adresine yaz."
+            "value" : "Gizliliğinle ilgili soruların varsa appsupport.flow@gmail.com adresine yaz."
           }
         }
       }
@@ -4589,36 +4589,36 @@
         }
       }
     },
-    "info.flow@gmail.com copied to clipboard." : {
+    "appsupport.flow@gmail.com copied to clipboard." : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "info.flow@gmail.com in die Zwischenablage kopiert."
+            "value" : "appsupport.flow@gmail.com in die Zwischenablage kopiert."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "info.flow@gmail.com se ha copiado en el portapapeles."
+            "value" : "appsupport.flow@gmail.com se ha copiado en el portapapeles."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "info.flow@gmail.com copié dans le presse-papiers."
+            "value" : "appsupport.flow@gmail.com copié dans le presse-papiers."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "info.flow@gmail.com copiato negli appunti."
+            "value" : "appsupport.flow@gmail.com copiato negli appunti."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "info.flow@gmail.com panoya kopyalandı."
+            "value" : "appsupport.flow@gmail.com panoya kopyalandı."
           }
         }
       }
@@ -6774,36 +6774,36 @@
         }
       }
     },
-    "Questions about these terms? Write to us at info.flow@gmail.com." : {
+    "Questions about these terms? Write to us at appsupport.flow@gmail.com." : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fragen zu diesen Bedingungen? Schreib uns an info.flow@gmail.com."
+            "value" : "Fragen zu diesen Bedingungen? Schreib uns an appsupport.flow@gmail.com."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¿Tienes preguntas sobre estas condiciones? Escríbenos a info.flow@gmail.com."
+            "value" : "¿Tienes preguntas sobre estas condiciones? Escríbenos a appsupport.flow@gmail.com."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Des questions sur ces conditions ? Écrivez-nous à info.flow@gmail.com."
+            "value" : "Des questions sur ces conditions ? Écrivez-nous à appsupport.flow@gmail.com."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Domande su questi termini? Scrivici a info.flow@gmail.com."
+            "value" : "Domande su questi termini? Scrivici a appsupport.flow@gmail.com."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bu koşullarla ilgili soruların mı var? info.flow@gmail.com adresine yaz."
+            "value" : "Bu koşullarla ilgili soruların mı var? appsupport.flow@gmail.com adresine yaz."
           }
         }
       }

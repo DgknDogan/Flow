@@ -2,7 +2,7 @@ import SwiftUI
 
 struct SupportSection: View {
 
-    private static let supportEmail = "info.flow@gmail.com"
+    private static let supportEmail = "appsupport.flow@gmail.com"
 
     @Environment(ToastManager.self) private var toastManager
     @Environment(\.openURL) private var openURL

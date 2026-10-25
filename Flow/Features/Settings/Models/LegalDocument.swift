@@ -68,7 +68,7 @@ enum LegalDocument: Hashable, CaseIterable {
                 ),
                 Section(
                     heading: "Contact",
-                    body: "Questions about these terms? Write to us at info.flow@gmail.com."
+                    body: "Questions about these terms? Write to us at appsupport.flow@gmail.com."
                 )
             ]
         case .privacy:
@@ -103,7 +103,7 @@ enum LegalDocument: Hashable, CaseIterable {
                 ),
                 Section(
                     heading: "Contact",
-                    body: "If you have questions about your privacy, write to us at info.flow@gmail.com."
+                    body: "If you have questions about your privacy, write to us at appsupport.flow@gmail.com."
                 )
             ]
         case .acknowledgements:
